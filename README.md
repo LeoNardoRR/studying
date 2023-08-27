@@ -17,7 +17,7 @@
 - [Python](https://www.Python.com)
 - [MySQL](https://www.mysql.com/)
 - [Javascript](https://developer.mozilla.org/pt-BR/docs/Learn/JavaScript/First_steps/What_is_JavaScript)
-- [PHP](https://www.php.net/docs.php)
+- [Java](https://www.php.net/docs.php)
 
 ## Quick Start
 **Clone this repository:**
