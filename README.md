@@ -22,7 +22,7 @@
 ## Quick Start
 **Clone this repository:**
  ```
- git clone https://github.com/LeoNardoRR/classical_technology_to_quantum.git
+ git clone https://github.com/LeoNardoRR/studying.git
  ```
 **Enter in the project's folder:**
  ```
